@@ -1,0 +1,7 @@
+####### InputDevices simple module
+
+To install:
+
+* Copy Inputs directory into /usr/local/share/perl/<vesion>/Ocsinventory/Agent/Backend/OS/Generic/
+
+* Apply the patch Common.pm.patch
